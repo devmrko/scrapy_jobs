@@ -12,7 +12,7 @@ python scrapy job examples(web contents crawling)
 * run scrapy with parameters
  * example
 
- > scrapy crawl 'scrapy project name' -a 'argument's identifier'='list of parameters'
+ > scrapy crawl 'scrapy project name' -a 'argument's identifier'='input parameters'
 
 
 
